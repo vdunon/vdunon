@@ -5,7 +5,7 @@ I am Valentin a Full-Stack developer studying at <a href="https://github.com/Epi
 <div align="left">
   <h3>My Stats</h3>
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vdunon&theme=ayu-mirage&show_icons=true&hide_border=true&count_private=true)
+  ![GitHub Stats](./profile/stats.svg)
   ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vdunon&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
 </div>
 <div>
