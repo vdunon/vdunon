@@ -22,3 +22,11 @@ I am Valentin a Full-Stack developer studying at <a href="https://github.com/Epi
 
   [![My Tools](https://skillicons.dev/icons?i=github,git,docker,figma,vscode,linux,windows)](https://skillicons.dev)
 </div>
+<div>
+  <h3>Contact me</h3>
+  <p>
+    <a href="https://linkedin.com/in/valentin-dunon">LinkedIn</a>
+    -
+    <a href="mailto:vdunon91gmail.com">vdunon91@gmail.com</a>
+  </p>
+</div>
