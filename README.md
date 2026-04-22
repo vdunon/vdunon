@@ -9,7 +9,7 @@ I am Valentin a Full-Stack developer studying at <a href="https://github.com/Epi
   ![GitHub Stats](./profile/top-langs.svg)
 </div>
 <div>
-  <h3>Programming Langages</h3>
+  <h3>Langages</h3>
 
   [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,php,c,python,lua,bash)](https://skillicons.dev)
   <h3>Libraries</h3>
