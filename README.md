@@ -27,6 +27,6 @@ I am Valentin a Full-Stack developer studying at <a href="https://github.com/Epi
   <p>
     <a href="https://linkedin.com/in/valentin-dunon">LinkedIn</a>
     -
-    <a href="mailto:vdunon91gmail.com">vdunon91@gmail.com</a>
+    <a href="mailto:vdunon91@gmail.com">vdunon91@gmail.com</a>
   </p>
 </div>
